@@ -1,0 +1,11 @@
+{
+ "name": "gre-confusable-words",
+ "title": "Confusable Words",
+ "exam": "GRE",
+ "area": "GRE Verbal",
+ "desc": "Tell apart pairs that test takers mix up, such as flout and flaunt or imply and infer.",
+ "content": [
+  "confusables.json"
+ ],
+ "n": 9
+}
